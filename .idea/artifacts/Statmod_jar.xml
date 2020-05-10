@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Statmod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Statmod_jar</output-path>
+    <root id="archive" name="Statmod.jar">
+      <element id="module-output" name="Statmod" />
+    </root>
+  </artifact>
+</component>

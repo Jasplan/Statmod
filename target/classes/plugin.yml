@@ -1,0 +1,14 @@
+name: Stats
+version: 1.0-SNAPSHOT
+main: me.jasplan.stats.Stats
+api-version: 1.13
+authors: [Jasplan]
+description: Keeps track of kills/economy/deaths/level and what not
+
+commands:
+  stats:
+    description: /set, /get
+    aliases: [stat]
+
+  pay:
+    description: /pay <player> <amount>
